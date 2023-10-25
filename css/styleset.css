@@ -1,0 +1,23 @@
+body{
+    background-color: yellowgreen;
+}
+h1{
+    font-size: 30px;
+    color:hotpink;
+}
+h2{
+    font-size: 25px;
+    color:teal;
+}
+.big{
+    font-size: 55px;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.big.uppercase{
+    color:aquamarine;
+}
+h1 span{
+    color:blueviolet;
+}
